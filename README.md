@@ -1,28 +1,26 @@
-# Mood_Gallery
+# Our service 
+MoodGallery
 
 
-감성별로 사진을 올리는 
+# 기능 생성 순위 
+app : gallery(home(post),myboard), ? (login,account,mypage)
+
+~5/19 수
+각자 html 파일 완성
+login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboard(글 작성하고 나오는 자기 게시판) 
+
+태영 -
+명준 -
+선영 -
+
+2주차
+
+
+3주차 
 
 
 
-## About The Project
 
-
-please put your project's description with great words!
-The more specific you descirbe your project, the better.
-If there's some picture, it will be great!
-
-example
-
-`main_page_image.png`
-
-1. intention of this project (why we made this project)
-
-   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales bibendum diam et sagittis. Quisque dignissim elementum faucibus. Vivamus volutpat arcu sed justo accumsan, volutpat cursus orci imperdiet. Aliquam at pharetra est. Ut sit amet velit at leo sollicitudin ornare sed id leo. Aenean ultricies, purus sed venenatis hendrerit, nisi augue dictum neque, eget maximus magna orci ac velit. Nam non sem quis nisl tincidunt sodales. Phasellus sed tincidunt dui. Curabitur nec enim in augue dictum aliquet. Proin et dapibus neque, sed commodo metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas fringilla tempus viverra. In congue sapien est, laoreet maximus justo elementum in. Nullam euismod justo id libero ultricies, ac faucibus nisl ultrices. Curabitur tincidunt dapibus nisi id tempus. Proin at mi lorem."
-
-2. meaning of the name
-
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales bibendum diam et sagittis. Quisque dignissim elementum faucibus. Vivamus volutpat arcu sed justo accumsan, volutpat cursus orci imperdiet. Aliquam at pharetra est. Ut sit amet velit at leo sollicitudin ornare sed id leo. Aenean ultricies, purus sed venenatis hendrerit, nisi augue dictum neque, eget maximus magna orci ac velit. Nam non sem quis nisl tincidunt sodales. Phasellus sed tincidunt dui. Curabitur nec enim in augue dictum aliquet. Proin et dapibus neque, sed commodo metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas fringilla tempus viverra. In congue sapien est, laoreet maximus justo elementum in. Nullam euismod justo id libero ultricies, ac faucibus nisl ultrices. Curabitur tincidunt dapibus nisi id tempus. Proin at mi lorem.
 
 3. how to use this project
 
