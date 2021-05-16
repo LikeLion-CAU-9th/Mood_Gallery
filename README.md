@@ -1,25 +1,25 @@
-# Our service 
-MoodGallery
-
-상황별로 감성별로 자신만의 사진을 올리고 글을 쓰는 감성공간 MoodGallery를 소개합니다!
+# MoodGallery 🖤
 
 
-
-# 기능 생성 순위 
-app : gallery(home(post),myboard), account(login,account,mypage)
-
-~5/19 수
-각자 html 파일 완성
-login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboard(글 작성하고 나오는 자기 게시판) 
-
-태영 -
-명준 -
-선영 -
-
-2주차
+### 상황별로 감성별로 자신만의 사진을 올리고 글을 쓰는 감성공간 MoodGallery를 소개합니다! <br><br>
 
 
-3주차 
+
+## 기능 생성 순위 
+   app : gallery(home(post),myboard), account(login,account,mypage)
+
+   ### ~5/19 수
+   각자 html 파일 완성
+   login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboard(글 작성하고 나오는 자기 게시판) 
+
+   태영 -
+   명준 -
+   선영 -
+
+   ### 2주차
+
+
+   ### 3주차 
 
 
 
