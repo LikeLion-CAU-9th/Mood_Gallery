@@ -2,8 +2,7 @@
 
 ---
 
-project description in short words or sentences
-Example) Best way to communicate with your friends, Kakao Talk.
+감성별로 사진을 올리는 
 
 
 
