@@ -1,9 +1,12 @@
 # Our service 
 MoodGallery
 
+상황별로 감성별로 자신만의 사진을 올리고 글을 쓰는 감성공간 MoodGallery를 소개합니다!
+
+
 
 # 기능 생성 순위 
-app : gallery(home(post),myboard), ? (login,account,mypage)
+app : gallery(home(post),myboard), account(login,account,mypage)
 
 ~5/19 수
 각자 html 파일 완성
@@ -27,13 +30,13 @@ login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboar
    1. installation
 
       ``` bash
-      $ git clone https://github.com/your_project_location.git
+      $ git clone https://github.com/Mood_Gallery_location.git
       $ git pull origin main
       $ python -m venv myvenv
       $ source myvenv/Scripts/activate
       	mac) $ source myvenv/bin/activate
-      $ cd project_name
-      $ pip install -r requirements.txt
+      $ cd Mood_Gallery
+      $ pip install Django
       ```
 
    2. Usage
@@ -79,17 +82,14 @@ git commit -m "[keyword] commit message"
 
 ## contributer
 
-- A - your_github_link - your_email_address
+- 찬규대장 - your_github_link - your_email_address
 
-- B - your_github_link - your_email_address
+- 태영 - your_github_link - your_email_address
 
-- C - your_github_link - your_email_address
+- 명준 - your_github_link - your_email_address
 
-- D - your_github_link - your_email_address
+- 선영 - your_github_link - your_email_address
 
   
 
-## License
 
-
-This project is MIT licensed. -> when you get MIT license
