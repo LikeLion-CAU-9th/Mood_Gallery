@@ -5,6 +5,7 @@
 
 
 
+
 # 기능 생성 순위 
    app : gallery(home(post),myboard), account(login,account,mypage)
 
@@ -48,6 +49,7 @@
 
 
 
+
 # tech stack
 
 ### server-side
@@ -59,6 +61,7 @@
 - html, css, javaScript
 
   
+
 
 # commit rules
 
@@ -79,6 +82,7 @@ git commit -m "[keyword] commit message"
   - [docs] : when you write some documents like readme.md
 
     
+
 
 # contributer
 
