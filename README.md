@@ -1,11 +1,11 @@
-# MoodGallery 🖤
+# 🖤 MoodGallery 🖤
 
 
 ### 상황별로 감성별로 자신만의 사진을 올리고 글을 쓰는 감성공간 MoodGallery를 소개합니다! <br><br>
 
 
 
-## 기능 생성 순위 
+# 기능 생성 순위 
    app : gallery(home(post),myboard), account(login,account,mypage)
 
    ### ~5/19 수
@@ -48,7 +48,7 @@
 
 
 
-## tech stack
+# tech stack
 
 ### server-side
 
@@ -60,7 +60,7 @@
 
   
 
-## commit rules
+# commit rules
 
 ```bash
 git commit -m "[keyword] commit message"
@@ -80,7 +80,7 @@ git commit -m "[keyword] commit message"
 
     
 
-## contributer
+# contributer
 
 - 찬규대장 - your_github_link - your_email_address
 
