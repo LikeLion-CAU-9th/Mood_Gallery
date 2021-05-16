@@ -1,6 +1,5 @@
 # Mood_Gallery
 
----
 
 감성별로 사진을 올리는 
 
@@ -8,7 +7,6 @@
 
 ## About The Project
 
----
 
 please put your project's description with great words!
 The more specific you descirbe your project, the better.
@@ -95,6 +93,5 @@ git commit -m "[keyword] commit message"
 
 ## License
 
----
 
 This project is MIT licensed. -> when you get MIT license
