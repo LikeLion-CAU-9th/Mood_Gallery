@@ -7,15 +7,19 @@
 
 
 # 🖤 Our Plan 🖤
+
    app : gallery(home(post),myboard), account(login,account,mypage)
 
    ### ~5/19 수
    각자 html 파일 완성
    login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboard(글 작성하고 나오는 자기 게시판) 
 
-   태영 -
-   명준 -
-   선영 -
+   태영 -  
+   
+   명준 -  
+   
+   선영 -  
+   
 
    ### 2주차
 
