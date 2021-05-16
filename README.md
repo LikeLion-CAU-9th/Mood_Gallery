@@ -56,7 +56,7 @@ login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboar
 
 ### client-side
 
-- react or vue
+- html, css, javaScript
 
   
 
