@@ -6,7 +6,7 @@
 
 
 
-# 기능 생성 순위 
+# 🖤 Our Plan 🖤
    app : gallery(home(post),myboard), account(login,account,mypage)
 
    ### ~5/19 수
