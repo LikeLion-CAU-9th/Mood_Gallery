@@ -14,11 +14,11 @@
    각자 html 파일 완성
    login+account / home(post) home.html 파일에 팝업 창 코드 생성 / myboard(글 작성하고 나오는 자기 게시판) 
 
-   태영 -  
+   태영 -  post
    
-   명준 -  
+   명준 -  myboard
    
-   선영 -  
+   선영 -  account 
    
 
    ### 2주차
