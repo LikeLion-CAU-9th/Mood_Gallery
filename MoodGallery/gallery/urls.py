@@ -8,5 +8,7 @@ import gallery.views
 urlpatterns = [
     path('', gallery.views.home, name='home'),
     path('myboard/', gallery.views.myboard, name='myboard'),
+    path('index/', gallery.views.index, name='index'),
+    
 
 ]

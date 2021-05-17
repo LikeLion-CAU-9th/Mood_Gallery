@@ -6,3 +6,6 @@ def home(request):
 
 def myboard(request):
     return render(request, 'myboard.html')
+
+def index(request):
+    return render(request, 'index.html')
