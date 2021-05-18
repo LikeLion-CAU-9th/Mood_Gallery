@@ -21,7 +21,7 @@ import account.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', account.views.login, name='login'),
+    path('', account.views.signinup, name='signinup'),
     path('account/', include('account.urls')),
     path('gallery/', include('gallery.urls')),
 ]

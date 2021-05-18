@@ -7,7 +7,7 @@ from django.urls import path
 import account.views
 
 urlpatterns = [
-    path('', account.views.login, name='login'),
-    path('new-account', account.views.new_account, name='new_account'),
+    path('', account.views.signinup, name='signinup'),
+    
 
 ]
